@@ -20,4 +20,4 @@ cd /d "C:/Users/darkn/Downloads/GISTDA/Spring/cspp"
 
 git add .
 git commit -m "%timestamp%"
-git push origin master
+git push origin main
